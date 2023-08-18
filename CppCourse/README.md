@@ -11,7 +11,7 @@ Welcome to the official repository for the C++ programming course! This reposito
 3. Open Command Prompt and navigate to the folder containing the desired example code.
 
 ```bash
-cd <path to any example folder>
+cd path/to/any/example/folder
 ```
 
 4. Compile the C++ file using the following command:
@@ -31,7 +31,7 @@ output.exe
 1. Open Terminal and navigate to the folder containing the desired example code.
 
 ```bash
-cd path/to/C++\ Course/VideoX
+cd path/to/any/example/folder
 ```
 
 2. Compile the C++ file using the following command:
